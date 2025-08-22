@@ -11,7 +11,7 @@
   "frameworks": ["Django", "Django Rest Framework", "React", "Next.js", "FastAPI"],
   "tools": ["Git", "Docker", "AWS", "Linux", "PostgreSQL", "Redis"],
   "interests": ["Reading", "Watching Movies", "Cycling", "Open Source", "AI & Machine Learning"],
-  "currently_learning": ["Microservices in Python", "Kotlin", "Pydantic],
+  "currently_learning": ["Microservices in Python", "Kotlin", "Pydantic"],
 }
 
 ```
