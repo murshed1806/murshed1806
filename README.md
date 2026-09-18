@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="banner.gif" alt="MH Murshed" width="100%" />
-</div>
-
-<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+MH+Murshed+%F0%9F%91%8B;Backend+%26+Full-Stack+Developer;Building+Scalable+Web+Systems" alt="Typing SVG" />
   </a>
@@ -65,15 +61,21 @@ Software Developer from **Dhaka, Bangladesh** 🇧🇩 — I design and build ba
 ### GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=murshed1806&theme=github_dark" />
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=murshed1806&theme=github_dark" />
+  <a href="https://github.com/murshed1806">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murshed1806&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/murshed1806">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murshed1806&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murshed1806&theme=github_dark" />
+  <a href="https://github.com/murshed1806">
+    <img src="https://streak-stats.demolab.com/?user=murshed1806&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
