@@ -1,151 +1,83 @@
 <div align="center">
+  <img src="banner.gif" alt="MH Murshed" width="100%" />
+</div>
 
-  <!-- Header Banner -->
-  <img src="banner.gif" alt="MH Murshed Banner" width="100%" />
-
-  <br/><br/>
-
-  <!-- Dynamic Typing Title -->
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+MH+Murshed+%F0%9F%91%8B;Software+Developer+from+Dhaka%2C+BD;Backend+%7C+REST+APIs+%7C+Full+Stack;Python+%7C+Django+%7C+FastAPI+%7C+React+%7C+Next.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+MH+Murshed+%F0%9F%91%8B;Backend+%26+Full-Stack+Developer;Building+Scalable+Web+Systems" alt="Typing SVG" />
   </a>
-
-  <p align="center">
-    <strong>Crafting scalable backend architectures, robust REST APIs, and modern full-stack web experiences.</strong>
-  </p>
-
-  <!-- Quick Social & Contact Badges -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/murshed1806/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:murshed1806@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/murshed1806" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://facebook.com/mh.murshed.75/" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=murshed1806&label=Profile%20Views&color=00d2ff&style=for-the-badge" alt="Profile Views" />
-  </p>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=header" width="100%" />
-
 </div>
 
-### 👨‍💻 About Me
-
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <p>Hey! I'm <strong>MH Murshed</strong>, a Software Developer based in Dhaka, Bangladesh 🇧🇩 with a strong passion for backend engineering and full-stack web development.</p>
-      <ul>
-        <li>🌱 Currently leveling up on <strong>Python Microservices</strong>, <strong>Pydantic V2</strong>, and modern frontend tools.</li>
-        <li>💡 Passionate about clean code, scalable database architectures, and API performance.</li>
-        <li>🎯 Open for collaborations on open-source projects, APIs, and modern web platforms.</li>
-        <li>⚡ <strong>Hobbies:</strong> Cycling, exploring AI/ML trends, and watching movies.</li>
-      </ul>
-    </td>
-    <td width="40%" valign="top">
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murshed1806&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF" alt="Top Languages" />
-      </div>
-    </td>
-  </tr>
-</table>
-
-```json
-{
-  "name": "MH Murshed",
-  "role": "Software Developer",
-  "location": "Dhaka, Bangladesh",
-  "core_competencies": [
-    "Backend & REST Architecture",
-    "Full-Stack Web Development",
-    "Database Optimization & Modeling",
-    "Clean Architecture & Microservices"
-  ],
-  "learning_radar": ["Microservices in Python", "Pydantic V2", "Flutter", "Angular"],
-  "passions": ["Open Source", "Scalable Systems", "AI & Automation", "Cycling"]
-}
-```
+<p align="center">
+  <a href="https://www.linkedin.com/in/murshed1806/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="mailto:murshed1806@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://facebook.com/mh.murshed.75/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/murshed1806"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" /></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=murshed1806&color=58A6FF&style=flat&label=visitors" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### About Me
 
-<div align="center">
+Software Developer from **Dhaka, Bangladesh** 🇧🇩 — I design and build backend systems, REST APIs, and modern full-stack web applications.
 
-  <table>
-    <tr>
-      <td align="center" width="90"><strong>Languages</strong></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" alt="Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="90"><strong>Frameworks</strong></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=django,fastapi,react,nextjs,redux,tailwind,materialui" alt="Frameworks" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="90"><strong>Databases</strong></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Databases" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="90"><strong>DevOps & Tools</strong></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=git,github,docker,postman,jest,vscode,linux" alt="Tools" />
-      </td>
-    </tr>
-  </table>
-
-</div>
+- 🔭 &nbsp;Focused on **backend engineering**, **API architecture**, and **database optimization**
+- 🌱 &nbsp;Currently learning **Microservices**, **Pydantic V2**, **Flutter**, and **Angular**
+- 💬 &nbsp;Happy to talk about **Python**, **Django**, **FastAPI**, **React**, or **system design**
+- 📫 &nbsp;Reach me at **murshed1806@gmail.com**
 
 ---
 
-### 📊 GitHub Activity & Insights
+### Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
+
+**Databases & Tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+### GitHub Stats
 
 <div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=murshed1806&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9" />
+  &nbsp;&nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murshed1806&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
+</div>
 
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://github.com/murshed1806">
-          <img height="185em" src="https://github-readme-stats.vercel.app/api?username=murshed1806&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&icon_color=00D2FF" alt="GitHub Stats" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/murshed1806">
-          <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=murshed1806&theme=tokyonight&hide_border=true&background=0D1117&ring=00D2FF&fire=00D2FF&currStreakNum=00D2FF" alt="GitHub Streak" />
-        </a>
-      </td>
-    </tr>
-  </table>
+<br/>
 
-  <br/>
-
-  <!-- Snake Animation Contribution Graph -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/murshed1806/murshed1806/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/murshed1806/murshed1806/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/murshed1806/murshed1806/output/github-contribution-grid-snake.svg">
-  </picture>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murshed1806&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </div>
 
 ---
 
 <div align="center">
-  <p>🤝 <strong>Let's connect & build something impactful!</strong></p>
-  <a href="mailto:murshed1806@gmail.com">
-    <img src="https://img.shields.io/badge/Say%20Hello-murshed1806%40gmail.com-00D2FF?style=flat-square&logo=mail.ru&logoColor=white" alt="Say Hello" />
-  </a>
-  <br/><br/>
-  <sub>⭐ Designed with care for <strong>murshed1806</strong></sub>
+  <sub>Open to collaboration — let's build something great together.</sub>
 </div>
