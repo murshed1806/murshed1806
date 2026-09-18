@@ -73,7 +73,7 @@ Software Developer from **Dhaka, Bangladesh** 🇧🇩 — I design and build ba
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murshed1806&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+  <img src="https://streak-stats.demolab.com/?user=murshed1806&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </div>
 
 ---
