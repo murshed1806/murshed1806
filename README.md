@@ -62,18 +62,6 @@ Software Developer from **Dhaka, Bangladesh** 🇧🇩 — I design and build ba
 
 <div align="center">
   <a href="https://github.com/murshed1806">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murshed1806&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/murshed1806">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murshed1806&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/murshed1806">
     <img src="https://streak-stats.demolab.com/?user=murshed1806&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
 </div>
